@@ -1,19 +1,16 @@
-<mxfile host="www.draw.io" modified="2019-11-03T03:18:06.627Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="DS8yBUVXW2b4iFPULYkv" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-03T03:24:47.322Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="63T9Tj0aYGNVmUwasNnz" version="12.1.9" type="github" pages="1">
   <diagram id="o9cLpWM75LbQDvqs3Gvv" name="Page-1">
     <mxGraphModel dx="982" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="6mOknr67y0yaTaPZ5rdt-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="310" y="220" width="270" height="270" as="geometry"/>
-        </mxCell>
         <mxCell id="6mOknr67y0yaTaPZ5rdt-2" value="数据拉取" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" vertex="1" parent="1">
           <mxGeometry x="405" y="250" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="6mOknr67y0yaTaPZ5rdt-3" value="风险计算" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="6mOknr67y0yaTaPZ5rdt-3" value="风险计算" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#80FF00;" vertex="1" parent="1">
           <mxGeometry x="350" y="360" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="6mOknr67y0yaTaPZ5rdt-4" value="模型组装" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#9933FF;" vertex="1" parent="1">
+        <mxCell id="6mOknr67y0yaTaPZ5rdt-4" value="模型组装" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="6mOknr67y0yaTaPZ5rdt-5" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#CCFFFF;" edge="1" parent="1" source="6mOknr67y0yaTaPZ5rdt-3" target="6mOknr67y0yaTaPZ5rdt-2">
