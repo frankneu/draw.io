@@ -1,44 +1,56 @@
-<mxfile host="www.draw.io" modified="2020-03-05T11:49:45.072Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="JnkDqCofA2ptDWHkXb5C" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-05T12:32:51.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="tj6cMQx7gKKG8qZ2l7eh" version="12.7.9" type="github">
   <diagram id="GG9u6aIBvdDvP1Iufii3" name="Page-1">
-    <mxGraphModel dx="1080" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1083" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vYbNb0XnAJFqB-Px6j5s-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="190" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vYbNb0XnAJFqB-Px6j5s-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="290" height="500" as="geometry" />
+        </mxCell>
         <mxCell id="JzPNbB1eXUyXGoEPm5oQ-1" value="变更前置校验" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="124" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JzPNbB1eXUyXGoEPm5oQ-2" value="变更后置校验" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="124" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JzPNbB1eXUyXGoEPm5oQ-3" value="变更搜索（人工定位）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="454" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JzPNbB1eXUyXGoEPm5oQ-4" value="定位平台（自动定位）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JzPNbB1eXUyXGoEPm5oQ-6" value="运维决策" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JzPNbB1eXUyXGoEPm5oQ-7" value="RMC" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="220" width="120" height="80" as="geometry" />
+          <mxGeometry x="644" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vYbNb0XnAJFqB-Px6j5s-1" value="变更核心" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="56" y="50" width="60" height="20" as="geometry" />
+          <mxGeometry x="40" y="200" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vYbNb0XnAJFqB-Px6j5s-2" value="变更核心" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="64" y="297" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vYbNb0XnAJFqB-Px6j5s-3" value="灰度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="363" y="640" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vYbNb0XnAJFqB-Px6j5s-4" value="监控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="610" width="40" height="20" as="geometry" />
+          <mxGeometry x="48" y="597" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vYbNb0XnAJFqB-Px6j5s-5" value="变更核心" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="738" y="316" width="60" height="20" as="geometry" />
+          <mxGeometry x="564" y="280" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vYbNb0XnAJFqB-Px6j5s-6" value="定位平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="727" y="88" width="60" height="20" as="geometry" />
+          <mxGeometry x="751" y="280" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vYbNb0XnAJFqB-Px6j5s-7" value="变更过程中分批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vYbNb0XnAJFqB-Px6j5s-8" value="检查变更影响面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vYbNb0XnAJFqB-Px6j5s-9" value="九州" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="453" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vYbNb0XnAJFqB-Px6j5s-10" value="分批" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vYbNb0XnAJFqB-Px6j5s-15" value="变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="117" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vYbNb0XnAJFqB-Px6j5s-16" value="应急" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="446" y="153" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
