@@ -1,1 +1,40 @@
-<mxfile host="www.draw.io" modified="2020-03-05T02:47:31.355Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="sNRpEI4O3Nm7SrwGM62X" version="12.7.9" type="github"><diagram id="w6hdogesCgSzW8KNwTcu" name="Page-1">zZbfi6MwEMf/mnlc0MQf8TG29o6Fg2XLcXBvoWaroE0vTde2f/2NGrViC7sPuxYEJ9+ZGPPJTBKgi/L0Q4t99kulsgDipCegSyDEJSzAV62cWyX0nFbY6jy1QYOwzi/Sil3YMU/lYRRolCpMvh+LG7XbyY0ZaUJrVY3D3lQxHnUvtnIirDeimKp/8tRkrcpIOOg/Zb7NupHdIGo9peiC7UwOmUhVdSXRBOhCK2VaqzwtZFHD67i0/VZ3vP2PabkzH+lwIZeF67w6f5/z34fX5b+n1fPLk/3KuyiOdsKQeBAziDgkPjAO3G0MH7jfGCvg1E7InDtKOBIuCDbiKsuNXO/FpvZUmBOoZaYssOWiaYeT2sjT3Xm4PR1MK6lKafQZQ2yH0PK0CeUy266G5XE75tnV0nRxwmbEtv/yAA0Ny+0TDMkNhgx4CMxriCHMaEJMq+MulanF8u3UKP0gteCrqNF71DC9kgCiBCLHJhwjjeJD7MzOkXqPBtK7CZIhyL6EmQUZYS1jWiaPALIHYkF63twg/dt7Ia8f5BeHzRYY1XshW9Yg4yXwZHaQHnk0kMENkEgrhmhlTxfci/uKRoM1INHgTu2tYWPVT4+ZuYvd9/2Z0YZTtHNDCr6xkLE5XJga39W1kyb/AQ==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-05T02:48:31.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="_qqJQg9CHSdrG838E72R" version="12.7.9" type="github">
+  <diagram id="w6hdogesCgSzW8KNwTcu" name="Page-1">
+    <mxGraphModel dx="1286" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z2zC10R0ZJiUsRDq-FJP-1" value="业务入口" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z2zC10R0ZJiUsRDq-FJP-2" value="规则" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z2zC10R0ZJiUsRDq-FJP-3" value="解析参数" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z2zC10R0ZJiUsRDq-FJP-4" value="自动发现" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z2zC10R0ZJiUsRDq-FJP-5" value="人工配置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z2zC10R0ZJiUsRDq-FJP-6" value="统一数据核心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z2zC10R0ZJiUsRDq-FJP-7" value="数据拉取核心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JGDxQjxpqLckkwGgAIi-1" value="拉取客户端核心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JGDxQjxpqLckkwGgAIi-2" value="自动发现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JGDxQjxpqLckkwGgAIi-3" value="人工配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
