@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-05T02:48:31.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="_qqJQg9CHSdrG838E72R" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-05T02:56:55.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="Tw2vYpFj3InkzEP0EQkD" version="12.7.9" type="github">
   <diagram id="w6hdogesCgSzW8KNwTcu" name="Page-1">
     <mxGraphModel dx="1286" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="6JGDxQjxpqLckkwGgAIi-3" value="人工配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JGDxQjxpqLckkwGgAIi-4" value="统一元数据存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
