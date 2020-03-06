@@ -1,27 +1,14 @@
-<mxfile host="www.draw.io" modified="2020-03-06T08:41:40.622Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="uoCtN9HShmV8Nc_NevdQ" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-06T08:49:00.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="YQW1jPIjQFV6584FanAD" version="12.8.1" type="github">
   <diagram id="GG9u6aIBvdDvP1Iufii3" name="Page-1">
-    <mxGraphModel dx="2141" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1314" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TI-A_ci46_vRr4jzdu6c-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TI-A_ci46_vRr4jzdu6c-6" target="TI-A_ci46_vRr4jzdu6c-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TI-A_ci46_vRr4jzdu6c-6" target="TI-A_ci46_vRr4jzdu6c-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="320" />
-              <mxPoint x="300" y="680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TI-A_ci46_vRr4jzdu6c-6" target="TI-A_ci46_vRr4jzdu6c-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-10" y="320" />
-              <mxPoint x="-10" y="680" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="TI-A_ci46_vRr4jzdu6c-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TI-A_ci46_vRr4jzdu6c-6" target="TI-A_ci46_vRr4jzdu6c-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TI-A_ci46_vRr4jzdu6c-6" value="&lt;span style=&quot;white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;创建变更&lt;/font&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="290" width="120" height="60" as="geometry" />
@@ -67,23 +54,14 @@
         <mxCell id="TI-A_ci46_vRr4jzdu6c-26" value="变更后置检查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="599" y="635" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-27" value="获取变更影响面数据：&lt;br&gt;判定是否是高危变更" style="text;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="490" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-28" value="&lt;div style=&quot;text-align: left&quot;&gt;获取变更影响面数据：&lt;/div&gt;判定是否会影响&lt;br&gt;p1p2服务" style="text;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="460" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-29" value="获取变更影响面数据：&lt;br&gt;可能受影响的业务owner&lt;br&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;发送邮件或钉钉提醒&lt;/span&gt;&lt;/div&gt;" style="text;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="490" width="230" height="30" as="geometry" />
+        <mxCell id="TI-A_ci46_vRr4jzdu6c-28" value="获取元数据基础信息&lt;br&gt;展示变更实体列表&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;fillColor=#99FF33;" vertex="1" parent="1">
+          <mxGeometry x="150" y="520" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TI-A_ci46_vRr4jzdu6c-36" value="获取元数据基础信息：&lt;br&gt;用于执行分批规则进行灰度分批" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#80FF00;" vertex="1" parent="1">
           <mxGeometry x="95" y="714" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TI-A_ci46_vRr4jzdu6c-38" value="获取变更影响面数据：&lt;br&gt;执行防御规则，拦截异常变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#80FF00;" vertex="1" parent="1">
           <mxGeometry x="555" y="708" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-41" value="获取元数据基础信息，展示变更实体列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#80FF00;" vertex="1" parent="1">
-          <mxGeometry x="205" y="299" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TI-A_ci46_vRr4jzdu6c-43" value="获取变更影响面数据：&lt;br&gt;通过故障的变更实体，&lt;br&gt;反向搜索近期可能影响到这个实体的变更记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#80FF00;" vertex="1" parent="1">
           <mxGeometry x="425" y="535" width="260" height="50" as="geometry" />
@@ -93,6 +71,21 @@
         </mxCell>
         <mxCell id="TI-A_ci46_vRr4jzdu6c-45" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="650" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TI-A_ci46_vRr4jzdu6c-48" value="变更影响面" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="TI-A_ci46_vRr4jzdu6c-49" value="是否是高危变更" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TI-A_ci46_vRr4jzdu6c-48">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TI-A_ci46_vRr4jzdu6c-50" value="是否影响P1P2服务" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TI-A_ci46_vRr4jzdu6c-48">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TI-A_ci46_vRr4jzdu6c-51" value="向影响业务owner发送推送" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TI-A_ci46_vRr4jzdu6c-48">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TI-A_ci46_vRr4jzdu6c-53" value="变更结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="635" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
