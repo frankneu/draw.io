@@ -1,9 +1,21 @@
-<mxfile host="www.draw.io" modified="2020-03-08T04:25:32.831Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="M2z8OJFMAKOEHeFOK2xT" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-08T04:28:43.395Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="e2wTPvox4EzJ5eNfDzjB" version="12.8.1" type="github">
   <diagram id="GG9u6aIBvdDvP1Iufii3" name="Page-1">
     <mxGraphModel dx="888" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TI-A_ci46_vRr4jzdu6c-28" value="获取元数据基础信息&lt;br&gt;展示变更实体列表&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;fillColor=none;shadow=1;strokeColor=#66FF66;" parent="1" vertex="1">
+          <mxGeometry x="150" y="520" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TI-A_ci46_vRr4jzdu6c-36" value="获取元数据基础信息：&lt;br&gt;用于执行分批规则进行灰度分批" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;strokeColor=#66FF66;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="714" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TI-A_ci46_vRr4jzdu6c-38" value="获取变更影响面数据：&lt;br&gt;执行防御规则，拦截异常变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;strokeColor=#66FF66;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="708" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TI-A_ci46_vRr4jzdu6c-43" value="获取变更影响面数据：&lt;br&gt;通过故障的变更实体，&lt;br&gt;反向搜索近期可能影响到这个实体的变更记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;strokeColor=#66FF66;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="535" width="260" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="TI-A_ci46_vRr4jzdu6c-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TI-A_ci46_vRr4jzdu6c-6" target="TI-A_ci46_vRr4jzdu6c-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -53,18 +65,6 @@
         </mxCell>
         <mxCell id="TI-A_ci46_vRr4jzdu6c-26" value="变更后置检查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="599" y="635" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-28" value="获取元数据基础信息&lt;br&gt;展示变更实体列表&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;fillColor=#99FF33;" parent="1" vertex="1">
-          <mxGeometry x="150" y="520" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-36" value="获取元数据基础信息：&lt;br&gt;用于执行分批规则进行灰度分批" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#80FF00;" parent="1" vertex="1">
-          <mxGeometry x="95" y="714" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-38" value="获取变更影响面数据：&lt;br&gt;执行防御规则，拦截异常变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#80FF00;" parent="1" vertex="1">
-          <mxGeometry x="555" y="708" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-43" value="获取变更影响面数据：&lt;br&gt;通过故障的变更实体，&lt;br&gt;反向搜索近期可能影响到这个实体的变更记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#80FF00;" parent="1" vertex="1">
-          <mxGeometry x="425" y="535" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TI-A_ci46_vRr4jzdu6c-44" value="获取实体间关联关系数据：&lt;br&gt;通过关联关系，定位可能的故障根因" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="705" y="531" width="210" height="30" as="geometry" />
