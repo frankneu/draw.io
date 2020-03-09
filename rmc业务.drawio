@@ -1,91 +1,107 @@
-<mxfile host="www.draw.io" modified="2020-03-08T04:28:43.395Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="e2wTPvox4EzJ5eNfDzjB" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-09T10:35:51.568Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="W2AXp9iLEIrOPh25Nx_o" version="12.8.1" type="github">
   <diagram id="GG9u6aIBvdDvP1Iufii3" name="Page-1">
-    <mxGraphModel dx="888" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1707" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-28" value="获取元数据基础信息&lt;br&gt;展示变更实体列表&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;fillColor=none;shadow=1;strokeColor=#66FF66;" parent="1" vertex="1">
-          <mxGeometry x="150" y="520" width="170" height="40" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-4" value="获取变更实体基本信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="225" y="320" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-36" value="获取元数据基础信息：&lt;br&gt;用于执行分批规则进行灰度分批" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;strokeColor=#66FF66;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="714" width="180" height="30" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#E6E6E6;arrowWidth=0.5555555555555556;arrowSize=0.09342105263157895;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="760" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-38" value="获取变更影响面数据：&lt;br&gt;执行防御规则，拦截异常变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;strokeColor=#66FF66;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="708" width="170" height="30" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-13" value="变更创建" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="225" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-43" value="获取变更影响面数据：&lt;br&gt;通过故障的变更实体，&lt;br&gt;反向搜索近期可能影响到这个实体的变更记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;strokeColor=#66FF66;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="535" width="260" height="50" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-14" value="灰度分批" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="345" y="225" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TI-A_ci46_vRr4jzdu6c-6" target="TI-A_ci46_vRr4jzdu6c-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-15" value="前置校验" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="470" y="225" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TI-A_ci46_vRr4jzdu6c-6" target="TI-A_ci46_vRr4jzdu6c-50" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-16" value="分批变更" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="590" y="225" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-6" value="&lt;span style=&quot;white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;创建变更&lt;/font&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-17" value="后置校验" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="700" y="225" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#E5CCFF;" parent="1" source="TI-A_ci46_vRr4jzdu6c-7" target="TI-A_ci46_vRr4jzdu6c-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-18" value="完成上线" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="225" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-7" value="灰度分批" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#E5CCFF;" parent="1" vertex="1">
-          <mxGeometry x="101" y="650" width="88" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-8" value="" style="shape=mxgraph.bpmn.service_task;html=1;outlineConnect=0;fillColor=#E5CCFF;" parent="1" vertex="1">
-          <mxGeometry x="369" y="650" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#E5CCFF;" parent="1" source="TI-A_ci46_vRr4jzdu6c-8" target="TI-A_ci46_vRr4jzdu6c-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="620" as="targetPoint" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-19" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="560" as="sourcePoint" />
+            <mxPoint x="910" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#E5CCFF;" parent="1" source="TI-A_ci46_vRr4jzdu6c-9" target="TI-A_ci46_vRr4jzdu6c-45" edge="1">
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-21" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="210" as="sourcePoint" />
+            <mxPoint x="320" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-22" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="210" as="sourcePoint" />
+            <mxPoint x="450" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-23" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569.5" y="210" as="sourcePoint" />
+            <mxPoint x="570" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-24" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="689" y="210" as="sourcePoint" />
+            <mxPoint x="689" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-25" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="794.5" y="210" as="sourcePoint" />
+            <mxPoint x="795" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-28" value="判定是否是高危变更" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="390" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-29" value="IaaS变更关联到应用、接口、业务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="460" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-32" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;执行分批规&lt;br&gt;则进行灰度&lt;br&gt;分批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u3EH0ZkU2Drt2a6J8c02-33" target="u3EH0ZkU2Drt2a6J8c02-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-9" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=eventInt;symbol=compensation;fillColor=#E5CCFF;" parent="1" vertex="1">
-          <mxGeometry x="600" y="655" width="50" height="50" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-33" value="&lt;div&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;影响面实体&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;是&lt;/span&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;否正常&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;align=center;" vertex="1" parent="1">
+          <mxGeometry x="475" y="390" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="TI-A_ci46_vRr4jzdu6c-10" target="TI-A_ci46_vRr4jzdu6c-15" edge="1">
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u3EH0ZkU2Drt2a6J8c02-34" target="u3EH0ZkU2Drt2a6J8c02-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="TI-A_ci46_vRr4jzdu6c-10" target="TI-A_ci46_vRr4jzdu6c-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-34" value="&lt;div&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;影响面实体&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;是&lt;/span&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;否正常，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;阻断变更&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="390" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-10" value="发现故障" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-35" value="&lt;div&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;变更搜索&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;align=center;" vertex="1" parent="1">
+          <mxGeometry x="595" y="600" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-15" value="变更搜索" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;fillColor=#CCCCFF;" parent="1" vertex="1">
-          <mxGeometry x="500" y="450" width="120" height="80" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-36" value="&lt;div&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;定位平台&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="815" y="600" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-16" value="故障定位" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;fillColor=#CCCCFF;" parent="1" vertex="1">
-          <mxGeometry x="740" y="450" width="120" height="80" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-37" value="&lt;div&gt;&lt;/div&gt;通过故障的变更&lt;br&gt;实体，反向搜索&lt;br&gt;近期可能影响到&lt;br&gt;这个实体的变更&lt;br&gt;记录。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="670" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-25" value="变更前置检查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="630" width="90" height="20" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-38" value="获取实体间关联&lt;br&gt;关系数据，通过&lt;br&gt;关联关系，定位&lt;br&gt;可能的故障根因" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="680" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-26" value="变更后置检查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="599" y="635" width="90" height="20" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-39" value="正常变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="415" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-44" value="获取实体间关联关系数据：&lt;br&gt;通过关联关系，定位可能的故障根因" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="705" y="531" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-45" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#E5CCFF;" parent="1" vertex="1">
-          <mxGeometry x="780" y="650" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-48" value="变更影响面" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="350" width="160" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-49" value="是否是高危变更" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TI-A_ci46_vRr4jzdu6c-48" vertex="1">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-50" value="是否影响P1P2服务" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TI-A_ci46_vRr4jzdu6c-48" vertex="1">
-          <mxGeometry y="52" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-51" value="向影响业务owner发送推送" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TI-A_ci46_vRr4jzdu6c-48" vertex="1">
-          <mxGeometry y="78" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="TI-A_ci46_vRr4jzdu6c-53" value="变更结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="635" width="60" height="20" as="geometry" />
+        <mxCell id="u3EH0ZkU2Drt2a6J8c02-44" value="故障定位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="625" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
