@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-11T04:59:07.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="iFkOJZMyaNgzhoQXYGeY" version="12.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-16T05:04:00.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="MD_y8Pos5g0IpuD-ywvf" version="12.8.5" type="github">
   <diagram id="SqESzxWNPk29sI8p1Rc2" name="Page-1">
-    <mxGraphModel dx="1116" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6427" dy="5389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,6 +432,42 @@
         </mxCell>
         <mxCell id="fmcavVUVDH8g0gvI5zor-4" value="&lt;font style=&quot;font-size: 48px&quot;&gt;数据存取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="200" y="-179" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="97ref0UxAUCGDkj-buky-14" value="&lt;font style=&quot;font-size: 24px&quot;&gt;全量拉取完整度 100%&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1776" y="-926" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97ref0UxAUCGDkj-buky-15" value="&lt;font style=&quot;font-size: 24px&quot;&gt;增量拉取实效性 &amp;lt;1min&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1771" y="-766" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97ref0UxAUCGDkj-buky-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#E6E6E6;size=0.6;" vertex="1" parent="1">
+          <mxGeometry x="1726" y="-879" width="45" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="97ref0UxAUCGDkj-buky-17" value="&lt;font style=&quot;font-size: 24px&quot;&gt;全量拉取完整度 100%&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="-500" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97ref0UxAUCGDkj-buky-18" value="&lt;font style=&quot;font-size: 24px&quot;&gt;增量拉取实效性 &amp;lt;1min&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2095" y="-340" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97ref0UxAUCGDkj-buky-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#E6E6E6;size=0.6;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="-453" width="45" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="97ref0UxAUCGDkj-buky-20" value="&lt;span style=&quot;font-size: 24px&quot;&gt;快速配置数据拉取&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1481" y="-624.5" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97ref0UxAUCGDkj-buky-21" value="&lt;span style=&quot;font-size: 24px&quot;&gt;通用配置&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="130" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97ref0UxAUCGDkj-buky-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#E6E6E6;size=0.6;" vertex="1" parent="1">
+          <mxGeometry x="2305" y="-90" width="45" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="97ref0UxAUCGDkj-buky-27" value="&lt;span style=&quot;font-size: 24px&quot;&gt;大范围影响面&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="230" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97ref0UxAUCGDkj-buky-28" value="&lt;span style=&quot;font-size: 24px&quot;&gt;画像计算&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="20" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97ref0UxAUCGDkj-buky-29" value="&lt;span style=&quot;font-size: 24px&quot;&gt;drm影响面&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="-89" width="185" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
