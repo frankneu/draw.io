@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-18T08:37:02.626Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="W71kHKoFH9V8JYGqTLXA" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-18T08:38:19.026Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="-ADbRD3ew5pZokNJSqXs" version="12.8.5" type="github">
   <diagram id="EqoFCm8-C9Oadi-K3e8N" name="Page-1">
     <mxGraphModel dx="1679" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,8 +66,8 @@
         <mxCell id="9R-WJBk1CTyCUYP_G9Th-21" value="解析数据，将记录转换为model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="520" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9R-WJBk1CTyCUYP_G9Th-22" value="进行实际的写入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="585" width="100" height="20" as="geometry" />
+        <mxCell id="9R-WJBk1CTyCUYP_G9Th-22" value="进行实际的写入，过程中保证幂等或是使用事务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="590" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
