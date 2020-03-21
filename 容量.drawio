@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T09:50:19.800Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="lf697RombOdq-uPu7Z0t" version="12.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-21T10:03:20.863Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="84pu9KsjeIxWJQ3yySJ9" version="12.8.6" type="github">
   <diagram id="S2baGEIhiydIIQB_n-5w" name="Page-1">
-    <mxGraphModel dx="1124" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="p-v2kpdENrO4g--GJPDw-153" value="业务容量模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="556" y="1335" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p-v2kpdENrO4g--GJPDw-155" value="模型计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+        <mxCell id="p-v2kpdENrO4g--GJPDw-155" value="计算调度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="755.5" y="1125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p-v2kpdENrO4g--GJPDw-184" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fillColor=#CCCCCC;" edge="1" parent="1" source="p-v2kpdENrO4g--GJPDw-157" target="p-v2kpdENrO4g--GJPDw-155">
@@ -147,6 +147,18 @@
         </mxCell>
         <mxCell id="p-v2kpdENrO4g--GJPDw-204" value="&lt;font style=&quot;font-size: 18px&quot;&gt;datasourcce&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="895" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p-v2kpdENrO4g--GJPDw-205" value="1. 从各个数据源&lt;br&gt;获取容量模型需&lt;br&gt;要的数据。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p-v2kpdENrO4g--GJPDw-206" value="2. 通过代码沉淀&lt;br&gt;容量经验，通过&lt;br&gt;统计学习进行参&lt;br&gt;数调优。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="1210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p-v2kpdENrO4g--GJPDw-207" value="3. 模型结果应用&lt;br&gt;到业务，允许业&lt;br&gt;务配置，允许实&lt;br&gt;时获取容量结果&lt;br&gt;以及巡检给出容&lt;br&gt;量告警。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1195" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p-v2kpdENrO4g--GJPDw-208" value="4. 业务的容量模型，&lt;br&gt;通过业务拓扑将不&lt;br&gt;同的实体容量模型&lt;br&gt;组织起来形成一个&lt;br&gt;整体。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1325" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
