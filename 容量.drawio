@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T09:47:01.301Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="qBOLMi56pqnKDhl6QS5b" version="12.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-21T09:49:50.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="eDbUGkF0PwuRoINEdqAQ" version="12.8.6" type="github">
   <diagram id="S2baGEIhiydIIQB_n-5w" name="Page-1">
     <mxGraphModel dx="1124" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="p-v2kpdENrO4g--GJPDw-171" value="tairmanager：根据运行时数据和拓扑，评估tair和tbase的容量" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="30" y="1233" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p-v2kpdENrO4g--GJPDw-172" value="mng" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="p-v2kpdENrO4g--GJPDw-172" value="msgbroker：评估消息队列的容量" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="30" y="1332" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p-v2kpdENrO4g--GJPDw-173" value="计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -139,8 +139,14 @@
         <mxCell id="p-v2kpdENrO4g--GJPDw-186" value="模型人工配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="828" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p-v2kpdENrO4g--GJPDw-192" value="业务应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="960" width="60" height="20" as="geometry" />
+        <mxCell id="p-v2kpdENrO4g--GJPDw-192" value="&lt;span style=&quot;color: rgb(17 , 31 , 44) ; text-align: left ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;riskdatacenter&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="980" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p-v2kpdENrO4g--GJPDw-203" value="&lt;font style=&quot;font-size: 18px&quot;&gt;riskmodelcenter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="306" y="850" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p-v2kpdENrO4g--GJPDw-204" value="&lt;font style=&quot;font-size: 18px&quot;&gt;datasourcce&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="895" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
