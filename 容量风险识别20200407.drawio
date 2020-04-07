@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T03:14:09.777Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="1Io8iTBwTW9q8DMzmHhA" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T03:17:48.116Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Jaz6DDEDFfNQFccxQJCc" version="12.9.3" type="github">
   <diagram id="5c4m7T-VgIqLNZ7AyEJ4" name="Page-1">
     <mxGraphModel dx="1188" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="80" y="280" width="570" height="220" as="geometry" />
         </mxCell>
         <mxCell id="WGc6fx1Jrv9fgFzFm3df-40" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="660" y="170" width="140" height="330" as="geometry" />
+          <mxGeometry x="660" y="90" width="140" height="410" as="geometry" />
         </mxCell>
         <mxCell id="WGc6fx1Jrv9fgFzFm3df-22" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="80" y="510" width="710" height="110" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="WGc6fx1Jrv9fgFzFm3df-1" value="基础设施容量模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WGc6fx1Jrv9fgFzFm3df-2" value="&lt;span style=&quot;white-space: normal&quot;&gt;应用&amp;amp;接口分类&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WGc6fx1Jrv9fgFzFm3df-2" value="&lt;span style=&quot;white-space: normal&quot;&gt;应用&amp;amp;接口打标&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WGc6fx1Jrv9fgFzFm3df-4" value="中间件容量模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -50,12 +50,12 @@
           <mxGeometry x="110" y="430" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WGc6fx1Jrv9fgFzFm3df-20" value="趋势预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WGc6fx1Jrv9fgFzFm3df-21" value="动态基线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WGc6fx1Jrv9fgFzFm3df-23" value="stream compute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WGc6fx1Jrv9fgFzFm3df-23" value="stream" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WGc6fx1Jrv9fgFzFm3df-29" value="sql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -89,16 +89,16 @@
           <mxGeometry x="90" y="520" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WGc6fx1Jrv9fgFzFm3df-41" value="统计&amp;amp;算法 @慎笃" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="180" width="110" height="20" as="geometry" />
+          <mxGeometry x="665" y="100" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WGc6fx1Jrv9fgFzFm3df-43" value="容量基础计算 @弘壹" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="285" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WGc6fx1Jrv9fgFzFm3df-44" value="接口自动打标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="285" width="120" height="60" as="geometry" />
+        <mxCell id="WGc6fx1Jrv9fgFzFm3df-44" value="应用分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WGc6fx1Jrv9fgFzFm3df-45" value="异常检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WGc6fx1Jrv9fgFzFm3df-47" value="&lt;span style=&quot;white-space: normal&quot;&gt;通用业务降噪&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
@@ -109,8 +109,11 @@
         <mxCell id="WGc6fx1Jrv9fgFzFm3df-50" value="场景业务降噪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WGc6fx1Jrv9fgFzFm3df-51" value="容量模型 @化竹 @语海" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="100" width="140" height="20" as="geometry" />
+        <mxCell id="WGc6fx1Jrv9fgFzFm3df-51" value="容量模型 @化竹 @语海 @郝密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WGc6fx1Jrv9fgFzFm3df-52" value="接口分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
