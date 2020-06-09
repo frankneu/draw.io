@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-09T11:53:33.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="VjQI3B2IpuYGU19fwSsV" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-09T12:00:38.237Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="KKG_wkA6eZAVA_Zg3EjD" version="13.1.14" type="github">
   <diagram id="owqiKtjegZCFVWd7rJzW" name="Page-1">
     <mxGraphModel dx="1888" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="60" y="500" width="590" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Mhult8i7kt20SpEzvvNn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="310" width="350" height="160" as="geometry" />
+          <mxGeometry x="80" y="310" width="380" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Mhult8i7kt20SpEzvvNn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#E6E6E6;" edge="1" parent="1" source="Mhult8i7kt20SpEzvvNn-12" target="Mhult8i7kt20SpEzvvNn-2">
           <mxGeometry relative="1" as="geometry" />
@@ -25,35 +25,38 @@
         <mxCell id="Mhult8i7kt20SpEzvvNn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mhult8i7kt20SpEzvvNn-1" target="Mhult8i7kt20SpEzvvNn-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mhult8i7kt20SpEzvvNn-4" value="数据任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="Mhult8i7kt20SpEzvvNn-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#E6E6E6;" edge="1" parent="1" source="Mhult8i7kt20SpEzvvNn-4" target="Mhult8i7kt20SpEzvvNn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mhult8i7kt20SpEzvvNn-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="500" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mhult8i7kt20SpEzvvNn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mhult8i7kt20SpEzvvNn-2" target="Mhult8i7kt20SpEzvvNn-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mhult8i7kt20SpEzvvNn-2" value="计算任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="Mhult8i7kt20SpEzvvNn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mhult8i7kt20SpEzvvNn-6" value="运行结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="Mhult8i7kt20SpEzvvNn-6" value="异常结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mhult8i7kt20SpEzvvNn-10" value="任务状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="195" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mhult8i7kt20SpEzvvNn-12" value="计算任务配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mhult8i7kt20SpEzvvNn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.88;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#E6E6E6;" edge="1" parent="1" source="Mhult8i7kt20SpEzvvNn-13" target="Mhult8i7kt20SpEzvvNn-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="244" y="430" />
+              <mxPoint x="264" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Mhult8i7kt20SpEzvvNn-13" value="数据拉取配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="300" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mhult8i7kt20SpEzvvNn-16" value="pontus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="Mhult8i7kt20SpEzvvNn-16" value="pontus计算平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="100" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mhult8i7kt20SpEzvvNn-17" value="antmonitor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
@@ -77,18 +80,39 @@
         <mxCell id="Mhult8i7kt20SpEzvvNn-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#E6E6E6;" edge="1" parent="1" source="Mhult8i7kt20SpEzvvNn-32" target="Mhult8i7kt20SpEzvvNn-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="244" y="350" />
+              <mxPoint x="264" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Mhult8i7kt20SpEzvvNn-32" value="内存缓存" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="212" y="360" width="88" height="60" as="geometry" />
+          <mxGeometry x="220" y="360" width="88" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mhult8i7kt20SpEzvvNn-40" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Worker1&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;App1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;App2&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
           <mxGeometry x="90" y="390" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Mhult8i7kt20SpEzvvNn-41" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Worker2&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;App3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;App4&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
           <mxGeometry x="150" y="390" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Mhult8i7kt20SpEzvvNn-43" value="&lt;span&gt;计算任务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mhult8i7kt20SpEzvvNn-44" value="&lt;span&gt;数据任务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mhult8i7kt20SpEzvvNn-47" value="指标突增" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="525" y="340" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mhult8i7kt20SpEzvvNn-48" value="基线对比" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="525" y="360" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mhult8i7kt20SpEzvvNn-49" value="指标缓存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="525" y="420" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mhult8i7kt20SpEzvvNn-50" value="数据接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="525" y="440" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mhult8i7kt20SpEzvvNn-51" value="lindorm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
