@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-09T03:01:01.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="ThBF5yuo8Tf65VyC6BVu" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-09T12:50:20.301Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="ZJQZoffq0weZupma9kho" version="13.1.14" type="github">
   <diagram id="1SOZtOeF8l6XhYHRm-za" name="Page-1">
     <mxGraphModel dx="1888" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -273,9 +273,6 @@
         </mxCell>
         <mxCell id="ywDv_ColvlXOYt9Vahqf-184" value="&lt;span&gt;自愈手段决策&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="305" y="510" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ywDv_ColvlXOYt9Vahqf-186" value="基于入口流量的容量计划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="305" y="540" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ywDv_ColvlXOYt9Vahqf-188" value="&lt;span&gt;业务风险发现&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="813.44" y="480" width="200" height="30" as="geometry" />
