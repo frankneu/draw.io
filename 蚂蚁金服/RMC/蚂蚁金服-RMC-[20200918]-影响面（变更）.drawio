@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T12:05:28.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.6.6" etag="fQLZrFKGII4-0lmXO1cb" type="github"><diagram id="GJKYoFsXAzMQX1VVH416">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-17T12:25:14.715Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="8r5bAnlSfxgtiOMR4oRK" version="13.6.6" type="github">
+  <diagram id="GJKYoFsXAzMQX1VVH416" name="Page-1">
+    <mxGraphModel dx="1426" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="byStPaCHuMstt8Y6tN4p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="byStPaCHuMstt8Y6tN4p-1" target="byStPaCHuMstt8Y6tN4p-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-1" value="变更发起" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="byStPaCHuMstt8Y6tN4p-2" target="byStPaCHuMstt8Y6tN4p-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-2" value="前置防御" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="byStPaCHuMstt8Y6tN4p-3" target="byStPaCHuMstt8Y6tN4p-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byStPaCHuMstt8Y6tN4p-3" target="byStPaCHuMstt8Y6tN4p-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-3" value="变更" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-4" value="后置防御" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="byStPaCHuMstt8Y6tN4p-11" target="byStPaCHuMstt8Y6tN4p-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="byStPaCHuMstt8Y6tN4p-11" target="byStPaCHuMstt8Y6tN4p-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-11" value="RMC" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-14" value="订阅变更进度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-15" value="提供预估影响面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-17" value="实时变更影响面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="300" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-18" value="变更id" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="490" y="410" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-19" value="初始（预估）影响面" style="swimlane;html=1;startSize=20;" vertex="1" parent="byStPaCHuMstt8Y6tN4p-18">
+          <mxGeometry y="20" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-20" value="影响面" style="swimlane;html=1;startSize=20;" vertex="1" parent="byStPaCHuMstt8Y6tN4p-18">
+          <mxGeometry x="120" y="20" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="byStPaCHuMstt8Y6tN4p-21" value="" style="swimlane;html=1;startSize=20;" vertex="1" parent="byStPaCHuMstt8Y6tN4p-18">
+          <mxGeometry x="240" y="20" width="120" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
