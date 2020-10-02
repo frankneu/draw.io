@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T02:48:18.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="vBl5m3hx_nunJBiRuagu" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T02:59:32.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_VloVcdMNS0txTU_D7Sm" version="13.7.2" type="github">
   <diagram id="S0jVbe6z213CAZg4sw0W" name="Page-1">
     <mxGraphModel dx="1426" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-35" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-21" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="710" y="300" width="130" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="dAHWYHgrOFg6X7nAU1P5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dAHWYHgrOFg6X7nAU1P5-1" target="dAHWYHgrOFg6X7nAU1P5-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -31,8 +37,74 @@
         <mxCell id="dAHWYHgrOFg6X7nAU1P5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dAHWYHgrOFg6X7nAU1P5-8" target="dAHWYHgrOFg6X7nAU1P5-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dAHWYHgrOFg6X7nAU1P5-8" target="dAHWYHgrOFg6X7nAU1P5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dAHWYHgrOFg6X7nAU1P5-8" value="变更进度订阅" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-12" value="变更准入防线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="1">
+          <mxGeometry x="727" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-14" value="变更准入防线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="320" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="1">
+          <mxGeometry x="727" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-16" value="变更准入防线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="400" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="1">
+          <mxGeometry x="722" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-18" value="变更准入防线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="360" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="dAHWYHgrOFg6X7nAU1P5-6" target="dAHWYHgrOFg6X7nAU1P5-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="230" />
+              <mxPoint x="780" y="300" />
+              <mxPoint x="700" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-25" value="调用链路清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-26" value="字节码注入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-27" value="变更代码分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-28" value="交叉点分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="550" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-29" value="图谱推导" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-30" value="影响面Session" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="450" y="450" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-31" value="预估影响面" style="swimlane;html=1;startSize=20;" vertex="1" parent="dAHWYHgrOFg6X7nAU1P5-30">
+          <mxGeometry y="20" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-32" value="灰度影响面" style="swimlane;html=1;startSize=20;" vertex="1" parent="dAHWYHgrOFg6X7nAU1P5-30">
+          <mxGeometry x="120" y="20" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-33" value="生产影响面" style="swimlane;html=1;startSize=20;" vertex="1" parent="dAHWYHgrOFg6X7nAU1P5-30">
+          <mxGeometry x="240" y="20" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dAHWYHgrOFg6X7nAU1P5-34" value="影响面模型" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
