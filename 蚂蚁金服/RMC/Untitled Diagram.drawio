@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T07:28:40.559Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="SGFJqKWri8t9r0mn1erh" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T08:50:33.372Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="pxMq1o3Va6dLnoVuab1w" version="13.7.9" type="github">
   <diagram id="nsVZ0QjiAOskGajyH8Sn" name="Page-1">
     <mxGraphModel dx="1779" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,16 +197,16 @@
         <mxCell id="PoibLMgNMMtjzj_5lVRd-172" value="&lt;span&gt;listener&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="376.25" y="400" width="177.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PoibLMgNMMtjzj_5lVRd-173" value="&lt;span&gt;listener&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="PoibLMgNMMtjzj_5lVRd-173" value="&lt;span&gt;全量同步比对&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1170" y="480" width="177.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PoibLMgNMMtjzj_5lVRd-174" value="&lt;span&gt;listener&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="PoibLMgNMMtjzj_5lVRd-174" value="&lt;span&gt;高精度聚合计算&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1170" y="570" width="177.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PoibLMgNMMtjzj_5lVRd-175" value="&lt;span&gt;listener&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="PoibLMgNMMtjzj_5lVRd-175" value="全域聚合计算" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1170" y="665" width="177.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PoibLMgNMMtjzj_5lVRd-176" value="&lt;span&gt;listener&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="PoibLMgNMMtjzj_5lVRd-176" value="&lt;span&gt;增量同步&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1170" y="750" width="177.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PoibLMgNMMtjzj_5lVRd-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fillColor=#E6E6E6;" edge="1" parent="1" source="PoibLMgNMMtjzj_5lVRd-106" target="PoibLMgNMMtjzj_5lVRd-176">
