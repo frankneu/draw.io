@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T09:09:26.058Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="RXWBZmxSCinR23SJspRv" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T09:13:14.143Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="D3CRQ4OX6KoKX3QSdhWe" version="14.4.7" type="github">
   <diagram id="4Ju_CABuPUIWSEjYzrBO" name="Page-1">
     <mxGraphModel dx="1862" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="O32i_MgARscnzORiwziN-19" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="210" y="280" width="430" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="O32i_MgARscnzORiwziN-1" value="变更" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="O32i_MgARscnzORiwziN-1" value="变更影响面变更防御" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-2" value="DRC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="610" width="120" height="60" as="geometry" />
@@ -130,14 +130,11 @@
             <mxPoint x="840" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O32i_MgARscnzORiwziN-28" value="应急" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="O32i_MgARscnzORiwziN-28" value="应急变更推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O32i_MgARscnzORiwziN-29" value="容量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="O32i_MgARscnzORiwziN-30" value="性能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="O32i_MgARscnzORiwziN-29" value="容量风险链路决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-31" target="O32i_MgARscnzORiwziN-32">
           <mxGeometry relative="1" as="geometry" />
@@ -258,6 +255,45 @@
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-96" value="特定应用阈值配置&lt;br&gt;（变更拦截&amp;amp;容量风险识别，调整策略阈值降噪提升召回）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-99" value="变更容量风险防御" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-100" value="故障实体变更搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-101" target="O32i_MgARscnzORiwziN-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-101" target="O32i_MgARscnzORiwziN-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-101" value="数据展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-102" target="O32i_MgARscnzORiwziN-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-102" value="模型展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-104" value="日常运维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-107" value="监控元数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-108" value="九州灰度分批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-109" value="分时调度聚合计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-110" value="容量风险识别决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-111" value="变更影响面拓扑查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
