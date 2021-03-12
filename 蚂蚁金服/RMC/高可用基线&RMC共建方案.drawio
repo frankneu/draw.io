@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T08:58:26.118Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="MHhvxnmgCpKrpU8gm3u9" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T09:09:26.058Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="RXWBZmxSCinR23SJspRv" version="14.4.7" type="github">
   <diagram id="4Ju_CABuPUIWSEjYzrBO" name="Page-1">
-    <mxGraphModel dx="2128" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1862" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="210" y="280" width="430" height="390" as="geometry" />
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-1" value="变更" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-2" value="DRC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="610" width="120" height="60" as="geometry" />
@@ -131,13 +131,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-28" value="应急" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-29" value="容量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-30" value="性能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="1410" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-31" target="O32i_MgARscnzORiwziN-32">
           <mxGeometry relative="1" as="geometry" />
@@ -166,6 +166,27 @@
         <mxCell id="O32i_MgARscnzORiwziN-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-35" target="O32i_MgARscnzORiwziN-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-35" target="O32i_MgARscnzORiwziN-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-35" target="O32i_MgARscnzORiwziN-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-35" target="O32i_MgARscnzORiwziN-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-35" value="数据拉取规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="580" width="120" height="60" as="geometry" />
         </mxCell>
@@ -178,20 +199,65 @@
         <mxCell id="O32i_MgARscnzORiwziN-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-37" target="O32i_MgARscnzORiwziN-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-37" target="O32i_MgARscnzORiwziN-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-37" target="O32i_MgARscnzORiwziN-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-37" value="模型组装策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-39" target="O32i_MgARscnzORiwziN-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-39" target="O32i_MgARscnzORiwziN-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-39" target="O32i_MgARscnzORiwziN-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-39" target="O32i_MgARscnzORiwziN-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-39" value="影响面分析策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="1189" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O32i_MgARscnzORiwziN-41" target="O32i_MgARscnzORiwziN-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-41" value="结论决策策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="550" width="50" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-66" value="进程内采集策略选择&lt;br&gt;（选择变更场景对应的采集方式）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="949" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-68" value="数据管道配置&lt;br&gt;（配置模型对应的数据来源）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="949" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-70" value="更新模型&lt;br&gt;（根据业务实体规则升级，更新模型）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="949" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-75" value="Trace关系清洗策略&lt;br&gt;（选择将Trace数据映射到拓扑的规则）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-80" value="进程内采集清洗策略&lt;br&gt;（选择将进程内采集数据映射到拓扑的规则）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-84" value="SPI注册&lt;br&gt;（业务变更影响面分析结果接口）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-86" value="业务视图分析策略&lt;br&gt;（容量、通用中间件基础设施变更、SaaS变更不同策略）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-88" value="自定义分析策略&lt;br&gt;（特殊的业务场景自行实现分析策略）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O32i_MgARscnzORiwziN-96" value="特定应用阈值配置&lt;br&gt;（变更拦截&amp;amp;容量风险识别，调整策略阈值降噪提升召回）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
