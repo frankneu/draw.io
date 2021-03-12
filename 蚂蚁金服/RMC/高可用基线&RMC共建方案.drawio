@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T09:34:47.204Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="6SAZhrV64yNJ1L4snjhy" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T09:35:13.335Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="-bTFOAx0XnkvVtFC1dne" version="14.4.7" type="github">
   <diagram id="4Ju_CABuPUIWSEjYzrBO" name="Page-1">
     <mxGraphModel dx="2234" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -321,13 +321,13 @@
         <mxCell id="O32i_MgARscnzORiwziN-111" value="变更影响面拓扑查询" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="630" y="171.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O32i_MgARscnzORiwziN-116" value="已建设完成，处于日常维护状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="151.25" width="180" height="20" as="geometry" />
+        <mxCell id="O32i_MgARscnzORiwziN-116" value="已交付，处于日常维护状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="151.25" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-117" value="进行中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="151.25" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O32i_MgARscnzORiwziN-118" value="待开始" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="O32i_MgARscnzORiwziN-118" value="待建设" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="151.25" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O32i_MgARscnzORiwziN-120" value="模型组装" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
