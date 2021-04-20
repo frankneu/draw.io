@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T08:35:31.605Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="5cL7Ifd5giEVIUhcqS8t" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-20T08:37:03.993Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="8vNsTIFtOkD5A2CNZ5uJ" version="14.6.1" type="github">
   <diagram id="QVj4KSkfM7rAbZDsEdx_" name="Page-1">
     <mxGraphModel dx="2475" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,6 +108,51 @@
         </mxCell>
         <mxCell id="ooAiBl3-JKffqHeqVd0w-51" value="GM00000015" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="255" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-69" value="异常指标" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="310" y="740" width="70" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-70" value="CPU异常" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ooAiBl3-JKffqHeqVd0w-69">
+          <mxGeometry y="26" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-71" value="RT异常" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ooAiBl3-JKffqHeqVd0w-69">
+          <mxGeometry y="56" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-72" value="流量异常" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ooAiBl3-JKffqHeqVd0w-69">
+          <mxGeometry y="86" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-73" value="异常指标" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="590" y="740" width="70" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-74" value="CPU异常" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ooAiBl3-JKffqHeqVd0w-73">
+          <mxGeometry y="26" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-75" value="RT异常" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ooAiBl3-JKffqHeqVd0w-73">
+          <mxGeometry y="56" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-77" value="异常指标" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="494" y="574" width="70" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-78" value="CPU异常" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ooAiBl3-JKffqHeqVd0w-77">
+          <mxGeometry y="26" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-79" value="RT异常" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ooAiBl3-JKffqHeqVd0w-77">
+          <mxGeometry y="56" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-80" value="流量异常" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ooAiBl3-JKffqHeqVd0w-77">
+          <mxGeometry y="86" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-81" value="异常指标" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="470" y="422" width="70" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-82" value="CPU异常" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ooAiBl3-JKffqHeqVd0w-81">
+          <mxGeometry y="26" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-83" value="RT异常" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ooAiBl3-JKffqHeqVd0w-81">
+          <mxGeometry y="56" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooAiBl3-JKffqHeqVd0w-84" value="流量异常" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ooAiBl3-JKffqHeqVd0w-81">
+          <mxGeometry y="86" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
