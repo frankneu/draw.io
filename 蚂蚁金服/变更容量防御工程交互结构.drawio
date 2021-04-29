@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T06:14:27.420Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.3" etag="fMRW0_2wz_oaZM0hVKSo" type="github"><diagram id="bo5MixadzhySrjbk98CX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-29T07:30:16.107Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="giVcZOm4XYyqBZ7J7A6P" version="14.6.3" type="github">
+  <diagram id="bo5MixadzhySrjbk98CX" name="Page-1">
+    <mxGraphModel dx="1447" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lt_TTrOmCf9Bc8KUs0zB-1" target="lt_TTrOmCf9Bc8KUs0zB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lt_TTrOmCf9Bc8KUs0zB-1" target="lt_TTrOmCf9Bc8KUs0zB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-1" value="riskmodelcenter-pontus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lt_TTrOmCf9Bc8KUs0zB-2" target="lt_TTrOmCf9Bc8KUs0zB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-2" value="riskmodelcentermeta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lt_TTrOmCf9Bc8KUs0zB-3" target="lt_TTrOmCf9Bc8KUs0zB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-3" value="opscloudweb" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lt_TTrOmCf9Bc8KUs0zB-4" target="lt_TTrOmCf9Bc8KUs0zB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-4" value="irlab-compute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="585" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-6" value="1. 变更发起，订阅变更事件和变更参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry y="270" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="lt_TTrOmCf9Bc8KUs0zB-7" target="lt_TTrOmCf9Bc8KUs0zB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lt_TTrOmCf9Bc8KUs0zB-7" target="lt_TTrOmCf9Bc8KUs0zB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-7" value="待检测变更事件列表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="162" y="420" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="lt_TTrOmCf9Bc8KUs0zB-10" target="lt_TTrOmCf9Bc8KUs0zB-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="540" />
+              <mxPoint x="450" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-10" value="待检测变更事件变更影响面" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="142" y="510" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-26" value="2. 将变更记录到变更带检测时间列表中（定期置为检测完成）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry y="380" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-27" value="3. 实时计算变更事件对应影响面数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry y="480" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-28" value="4. 获取待检测变更事件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lt_TTrOmCf9Bc8KUs0zB-29" value="5. 获取待检测变更事件影响面数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="308" y="540" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
