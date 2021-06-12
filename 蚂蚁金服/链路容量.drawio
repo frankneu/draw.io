@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T08:34:05.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="fjcv3sbvxbEdywtkhS78" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-12T03:05:47.161Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="LZ-XudQ-3o3KcsLuUKE9" version="14.7.2" type="github">
   <diagram id="PI9s6f7drBD2_VOT-f_g" name="Page-1">
-    <mxGraphModel dx="1781" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,6 +92,21 @@
         </mxCell>
         <mxCell id="8jjJUCMmg5ojy8icsZEH-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="790" y="180" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8jjJUCMmg5ojy8icsZEH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8jjJUCMmg5ojy8icsZEH-34" target="8jjJUCMmg5ojy8icsZEH-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8jjJUCMmg5ojy8icsZEH-34" value="过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jjJUCMmg5ojy8icsZEH-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8jjJUCMmg5ojy8icsZEH-35" target="8jjJUCMmg5ojy8icsZEH-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8jjJUCMmg5ojy8icsZEH-35" value="聚合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jjJUCMmg5ojy8icsZEH-37" value="存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
