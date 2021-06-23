@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T06:48:17.238Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="J5WZGzS1NPZdudpyUkhH" version="14.7.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T06:49:30.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="ZzonsRuLxw-ewNUNJUBV" version="14.7.10" type="github">
   <diagram id="PI9s6f7drBD2_VOT-f_g" name="Page-1">
     <mxGraphModel dx="1306" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
         <mxCell id="FrDKEGEqy4Japj-bB2Br-44" value="系统输入：数据&amp;amp;配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="1075" y="210" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FrDKEGEqy4Japj-bB2Br-45" value="系统运行：流计算&amp;amp;算法计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;" parent="1" vertex="1">
+        <mxCell id="FrDKEGEqy4Japj-bB2Br-45" value="业务规则：流计算&amp;amp;算法计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="1047.5" y="330" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FrDKEGEqy4Japj-bB2Br-46" value="系统输出：数据服务&amp;amp;产品服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;" parent="1" vertex="1">
@@ -232,11 +232,11 @@
         <mxCell id="JVC_fRipArQNDDYxg7Ej-17" value="5. 基于算法和链路的&lt;br&gt;数据，结合业务场景，&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;进行对应的结论计算&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1075" y="735" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JVC_fRipArQNDDYxg7Ej-18" value="6. 产品层统一收集数据，汇总存储并对外提供服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="940" width="280" height="20" as="geometry" />
+        <mxCell id="JVC_fRipArQNDDYxg7Ej-18" value="6. 产品层统一收集数据，&lt;br&gt;汇总存储并对外提供服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="745" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JVC_fRipArQNDDYxg7Ej-19" value="多维度数据服务" style="swimlane;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="375" width="160" height="345" as="geometry" />
+          <mxGeometry x="1251" y="375" width="160" height="345" as="geometry" />
         </mxCell>
         <mxCell id="JVC_fRipArQNDDYxg7Ej-21" value="场景业务数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1085" y="250" width="120" height="60" as="geometry" />
