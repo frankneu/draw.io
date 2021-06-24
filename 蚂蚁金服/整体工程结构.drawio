@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T08:11:28.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="qMkkMfPMA3cYd3ut508v" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T08:16:23.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ecjLUFaw7oUIRC2ifqod" version="14.8.0" type="github">
   <diagram id="NhcaxoaE0NAFlcaMM9a_" name="Page-1">
     <mxGraphModel dx="1320" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,8 +61,8 @@
         <mxCell id="D6SXMCeq1Teb1e1lIuU3-17" value="数据服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1060" y="380" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="D6SXMCeq1Teb1e1lIuU3-18" value="算法计算(irlab)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="706" y="800" width="90" height="20" as="geometry" />
+        <mxCell id="D6SXMCeq1Teb1e1lIuU3-18" value="算法计算(irlab&amp;amp;irlabsdk)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="681" y="800" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D6SXMCeq1Teb1e1lIuU3-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D6SXMCeq1Teb1e1lIuU3-39" target="D6SXMCeq1Teb1e1lIuU3-41">
           <mxGeometry relative="1" as="geometry" />
