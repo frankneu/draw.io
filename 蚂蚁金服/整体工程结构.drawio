@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T08:05:37.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="m0qojEvJJaqo-lZcMiqG" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T08:06:45.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="g12SgzWq3MO9Kw0refdN" version="14.8.0" type="github">
   <diagram id="NhcaxoaE0NAFlcaMM9a_" name="Page-1">
-    <mxGraphModel dx="1400" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2000" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,6 +235,12 @@
         <mxCell id="D6SXMCeq1Teb1e1lIuU3-73" value="6. 产品层统一收集数据，&lt;br&gt;汇总存储并对外提供服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1330" y="745" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="D6SXMCeq1Teb1e1lIuU3-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D6SXMCeq1Teb1e1lIuU3-74" target="D6SXMCeq1Teb1e1lIuU3-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D6SXMCeq1Teb1e1lIuU3-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D6SXMCeq1Teb1e1lIuU3-74" target="D6SXMCeq1Teb1e1lIuU3-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D6SXMCeq1Teb1e1lIuU3-74" value="多维度数据服务" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1251" y="375" width="160" height="345" as="geometry" />
         </mxCell>
@@ -243,6 +249,12 @@
         </mxCell>
         <mxCell id="D6SXMCeq1Teb1e1lIuU3-76" value="实时动态元数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="945" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D6SXMCeq1Teb1e1lIuU3-77" value="变更核心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="431" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D6SXMCeq1Teb1e1lIuU3-78" value="容量管家" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="604" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
