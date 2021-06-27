@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T07:14:30.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="vrDNfcEdaTQy1sfKj7lt" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-27T07:25:30.909Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="xjtHGdIySYzMSE6Iu44x" version="14.8.1" type="github">
   <diagram id="dZbaD18MQJhdawrXO8yU" name="Page-1">
     <mxGraphModel dx="2119" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="380" y="260" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IeePr_OmWzwxLe6y6hML-28" value="元数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="510" width="240" height="60" as="geometry" />
+          <mxGeometry x="540" y="530" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IeePr_OmWzwxLe6y6hML-29" value="变更影响面分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="240" height="60" as="geometry" />
@@ -25,14 +25,20 @@
         <mxCell id="IeePr_OmWzwxLe6y6hML-32" value="建设全站容量风险识别&amp;amp;自愈决策能力，提升异常识别和自愈决策精度和业务效果，识别准确率达到75%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IeePr_OmWzwxLe6y6hML-35" value="单笔数据模型刻画，包括业务发生时间、业务标识、途径节点(含调用顺序/耗时/异常信息)、数据(DB/业务日志)、服务调用的参数/返回，数据模型自我度量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IeePr_OmWzwxLe6y6hML-35" value="&lt;span&gt;单笔数据模型刻画，包括业务发生时间、业务标识、途径节点(含调用顺序/耗时/异常信息)、数据(DB/业务日志)、服务调用的参数/返回，数据模型自我度量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="770" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IeePr_OmWzwxLe6y6hML-39" value="建设技术风险统一变更元数据，构建覆盖全站技术风险实体的数据模型，细化到单笔维度，串联各个技术风险业务产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="570" width="240" height="60" as="geometry" />
+          <mxGeometry x="540" y="590" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IeePr_OmWzwxLe6y6hML-43" value="链路聚合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IeePr_OmWzwxLe6y6hML-43" value="单笔链路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="710" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IeePr_OmWzwxLe6y6hML-45" value="单笔数据模型刻画，包括业务发生时间、业务标识、途径节点(含调用顺序/耗时/异常信息)、数据(DB/业务日志)、服务调用的参数/返回，数据模型自我度量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="770" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IeePr_OmWzwxLe6y6hML-47" value="面向场景进行影响面分析，根据场景的特征进行影响面分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="470" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
