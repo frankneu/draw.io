@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T13:37:28.573Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AJHIRkPuRfzdktJCr9_r" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T13:38:45.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="zHXQ7rMeAdU3xKPs0FUW" version="14.8.1" type="github">
   <diagram id="dZbaD18MQJhdawrXO8yU" name="Page-1">
     <mxGraphModel dx="1732" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,6 +93,27 @@
         </mxCell>
         <mxCell id="4xLoA8fAVKlNWBl6zbYA-26" value="定位中台：交叉校验异常定位结论，补充决策信息&lt;br&gt;（容量场景）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="230" y="525" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4xLoA8fAVKlNWBl6zbYA-27" value="" style="endArrow=none;html=1;fillColor=#E6E6E6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="280" as="sourcePoint" />
+            <mxPoint x="1520" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xLoA8fAVKlNWBl6zbYA-28" value="" style="endArrow=none;html=1;fillColor=#E6E6E6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="750" as="sourcePoint" />
+            <mxPoint x="1520" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xLoA8fAVKlNWBl6zbYA-29" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="140" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4xLoA8fAVKlNWBl6zbYA-30" value="模型层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4xLoA8fAVKlNWBl6zbYA-31" value="基础能力层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="770" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
