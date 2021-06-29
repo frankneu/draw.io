@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T11:40:47.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="mheuVQfrzl3lFwWX1dHU" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T11:47:58.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="n0js6FtBCZJvmGyC8-DI" version="14.8.2" type="github">
   <diagram id="dZbaD18MQJhdawrXO8yU" name="Page-1">
     <mxGraphModel dx="2096" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
         <mxCell id="IeePr_OmWzwxLe6y6hML-35" value="&lt;span&gt;任意维度单笔链路数据聚合分析，提供大覆盖面、高可用、低延时的链路聚合能力&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="995" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IeePr_OmWzwxLe6y6hML-39" value="建设技术风险统一变更元数据，构建覆盖全站技术风险实体的数据模型，细化到单笔维度，串联各个技术风险业务产品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IeePr_OmWzwxLe6y6hML-39" value="[查询]建设技术风险统一变更元数据，支持灵活的元数据查询需求，并对元数据提供监控能力观察数据质量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="995" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IeePr_OmWzwxLe6y6hML-43" value="单笔链路" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
@@ -170,9 +170,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RbU4N_SkuYNDh7AKlBcr-12" value="算法能力评估&lt;br&gt;稳定性&lt;br&gt;时效性&lt;br&gt;算法丰富度&lt;br&gt;计算数据源覆盖面" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="1405" y="605" width="140" height="80" as="geometry" />
+          <mxGeometry x="1500" y="615" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RbU4N_SkuYNDh7AKlBcr-13" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="rLL6abTnW19eWrx2wcoX-1" target="RbU4N_SkuYNDh7AKlBcr-12" edge="1">
+        <mxCell id="RbU4N_SkuYNDh7AKlBcr-13" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="rLL6abTnW19eWrx2wcoX-1" target="RbU4N_SkuYNDh7AKlBcr-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1400" y="650" as="sourcePoint" />
           </mxGeometry>
@@ -271,7 +271,7 @@
             <mxPoint x="320" y="965" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-30" value="建设技术风险统一变更元数据，构建覆盖全站技术风险实体的数据模型，细化到单笔维度，串联各个技术风险业务产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-30" value="[数据分析]基于元数据，构建覆盖全站技术风险实体的数据模型，细化到单笔维度，串联各个技术风险业务产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="995" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
