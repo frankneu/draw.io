@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T11:39:19.817Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="qw56lhNHWzA34WxDs8sP" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T11:40:47.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="mheuVQfrzl3lFwWX1dHU" version="14.8.2" type="github">
   <diagram id="dZbaD18MQJhdawrXO8yU" name="Page-1">
     <mxGraphModel dx="2096" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
           <mxGeometry x="910" y="995" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IeePr_OmWzwxLe6y6hML-39" value="建设技术风险统一变更元数据，构建覆盖全站技术风险实体的数据模型，细化到单笔维度，串联各个技术风险业务产品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="995" width="240" height="60" as="geometry" />
+          <mxGeometry x="360" y="995" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IeePr_OmWzwxLe6y6hML-43" value="单笔链路" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="1360" y="935" width="240" height="60" as="geometry" />
@@ -61,6 +61,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4xLoA8fAVKlNWBl6zbYA-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IeePr_OmWzwxLe6y6hML-47" target="IeePr_OmWzwxLe6y6hML-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="IeePr_OmWzwxLe6y6hML-47" target="8y8JJ9FyH2inmfffU-TN-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IeePr_OmWzwxLe6y6hML-47" value="面向场景进行影响面分析&lt;br&gt;封装数据能力，屏蔽计算存储和业务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -129,7 +132,7 @@
           <mxGeometry x="160" y="425" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4xLoA8fAVKlNWBl6zbYA-31" value="基础能力层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="160" y="895" width="80" height="20" as="geometry" />
+          <mxGeometry x="111" y="895" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4xLoA8fAVKlNWBl6zbYA-34" value="变更影响面" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1241" y="445" width="80" height="80" as="geometry" />
@@ -255,18 +258,21 @@
           <mxGeometry x="1321" y="510" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8y8JJ9FyH2inmfffU-TN-26" value="代码分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="119" y="935" width="240" height="60" as="geometry" />
+          <mxGeometry x="70" y="935" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8y8JJ9FyH2inmfffU-TN-27" value="静态代码分析关联应用&lt;br&gt;变更关联的日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="119" y="995" width="240" height="60" as="geometry" />
+          <mxGeometry x="70" y="995" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8y8JJ9FyH2inmfffU-TN-28" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="400" y="915" width="50" height="40" as="geometry" />
+          <mxGeometry x="351" y="915" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8y8JJ9FyH2inmfffU-TN-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" parent="1" source="8y8JJ9FyH2inmfffU-TN-26" target="8y8JJ9FyH2inmfffU-TN-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="965" as="sourcePoint" />
+            <mxPoint x="320" y="965" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-30" value="建设技术风险统一变更元数据，构建覆盖全站技术风险实体的数据模型，细化到单笔维度，串联各个技术风险业务产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="995" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
