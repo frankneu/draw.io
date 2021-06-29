@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T02:06:54.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-CrvPo_4OTEtktbO1A3U" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T02:08:58.424Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="6Eq_4x8eQ14_jcvwJL1H" version="14.8.2" type="github">
   <diagram id="dZbaD18MQJhdawrXO8yU" name="Page-1">
     <mxGraphModel dx="1876" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,14 +101,14 @@
         </mxCell>
         <mxCell id="4xLoA8fAVKlNWBl6zbYA-27" value="" style="endArrow=none;html=1;fillColor=#E6E6E6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="280" as="sourcePoint" />
+            <mxPoint x="200" y="280" as="sourcePoint" />
             <mxPoint x="1520" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4xLoA8fAVKlNWBl6zbYA-28" value="" style="endArrow=none;html=1;fillColor=#E6E6E6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="750" as="sourcePoint" />
-            <mxPoint x="1520" y="750" as="targetPoint" />
+            <mxPoint x="200" y="760" as="sourcePoint" />
+            <mxPoint x="1520" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4xLoA8fAVKlNWBl6zbYA-29" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
@@ -118,7 +118,7 @@
           <mxGeometry x="200" y="300" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4xLoA8fAVKlNWBl6zbYA-31" value="基础能力层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="190" y="770" width="80" height="20" as="geometry" />
+          <mxGeometry x="200" y="770" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4xLoA8fAVKlNWBl6zbYA-34" value="变更核心" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1330" y="335" width="80" height="80" as="geometry" />
