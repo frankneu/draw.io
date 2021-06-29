@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T03:52:45.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ZQYQP4JAodBekGW8TziP" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T03:54:59.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="M6OtbUpVC_csK2A0a484" version="14.8.2" type="github">
   <diagram id="dZbaD18MQJhdawrXO8yU" name="Page-1">
     <mxGraphModel dx="1876" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -188,8 +188,8 @@
         <mxCell id="RbU4N_SkuYNDh7AKlBcr-20" value="自愈平台" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RbU4N_SkuYNDh7AKlBcr-22" value="影响面分析服务评估&lt;br&gt;业务场景抽象覆盖面（容量、变更）&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="800" y="535" width="230" height="40" as="geometry" />
+        <mxCell id="RbU4N_SkuYNDh7AKlBcr-22" value="影响面分析服务评估&lt;br&gt;业务场景抽象能力覆盖面（容量、变更）&lt;br&gt;分场景影响面分析结果评估（齐全度、准确率）" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="800" y="525" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RbU4N_SkuYNDh7AKlBcr-23" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="RbU4N_SkuYNDh7AKlBcr-22" source="IeePr_OmWzwxLe6y6hML-29">
           <mxGeometry relative="1" as="geometry">
