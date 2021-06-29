@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T02:08:58.424Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="6Eq_4x8eQ14_jcvwJL1H" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T02:14:14.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="KAXtbYzadH4emSSDDO-o" version="14.8.2" type="github">
   <diagram id="dZbaD18MQJhdawrXO8yU" name="Page-1">
     <mxGraphModel dx="1876" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,6 +122,46 @@
         </mxCell>
         <mxCell id="4xLoA8fAVKlNWBl6zbYA-34" value="变更核心" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1330" y="335" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RbU4N_SkuYNDh7AKlBcr-3" value="决策结论结果评估&lt;br&gt;准确率&lt;br&gt;召回率&lt;br&gt;覆盖面" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="174" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="RbU4N_SkuYNDh7AKlBcr-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="RbU4N_SkuYNDh7AKlBcr-3" parent="1" source="IeePr_OmWzwxLe6y6hML-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="1010" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbU4N_SkuYNDh7AKlBcr-6" value="决策结论结果评估&lt;br&gt;准确率&lt;br&gt;召回率&lt;br&gt;覆盖面" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="1130" y="60" width="174" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="RbU4N_SkuYNDh7AKlBcr-7" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="RbU4N_SkuYNDh7AKlBcr-6" source="IeePr_OmWzwxLe6y6hML-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1295" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbU4N_SkuYNDh7AKlBcr-8" value="链路聚合能力评估&lt;br&gt;稳定性&lt;br&gt;时效性&lt;br&gt;覆盖面&lt;br&gt;聚合维度支持度" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="887" y="641" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RbU4N_SkuYNDh7AKlBcr-9" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" parent="1" target="RbU4N_SkuYNDh7AKlBcr-8" source="IeePr_OmWzwxLe6y6hML-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="755" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbU4N_SkuYNDh7AKlBcr-10" value="单笔聚合能力评估&lt;br&gt;稳定性&lt;br&gt;时效性&lt;br&gt;覆盖面&lt;br&gt;齐全度" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="1380" y="770" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RbU4N_SkuYNDh7AKlBcr-11" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" parent="1" target="RbU4N_SkuYNDh7AKlBcr-10" source="IeePr_OmWzwxLe6y6hML-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1553" y="984" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbU4N_SkuYNDh7AKlBcr-12" value="算法能力评估&lt;br&gt;稳定性&lt;br&gt;时效性&lt;br&gt;算法丰富度&lt;br&gt;覆盖面" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="1495" y="465" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RbU4N_SkuYNDh7AKlBcr-13" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" parent="1" target="RbU4N_SkuYNDh7AKlBcr-12" source="rLL6abTnW19eWrx2wcoX-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="525" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
