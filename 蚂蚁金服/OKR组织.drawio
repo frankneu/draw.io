@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T11:49:22.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="NWrP5eybkpqXusPWUlLo" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T08:18:09.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="rPBEEzAsrw4c2sqtHs1b" version="14.8.3" type="github">
   <diagram id="dZbaD18MQJhdawrXO8yU" name="Page-1">
-    <mxGraphModel dx="2096" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1799" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="4xLoA8fAVKlNWBl6zbYA-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IeePr_OmWzwxLe6y6hML-47" target="IeePr_OmWzwxLe6y6hML-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="IeePr_OmWzwxLe6y6hML-47" target="8y8JJ9FyH2inmfffU-TN-26">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="IeePr_OmWzwxLe6y6hML-47" target="8y8JJ9FyH2inmfffU-TN-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IeePr_OmWzwxLe6y6hML-47" value="面向场景进行影响面分析&lt;br&gt;封装数据能力，屏蔽计算存储和业务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -207,71 +207,71 @@
             <mxPoint x="990" y="460" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-3" value="对计算过程的数据进行理论分析工具支持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-3" value="对计算过程的数据进行理论分析工具支持" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="975" y="515" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-5" value="&lt;b&gt;大促弹性/日常弹性&lt;/b&gt;&lt;br&gt;变更容量防御能力建设，支持日常和大促的变更防御" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-5" value="&lt;b&gt;大促弹性/日常弹性&lt;/b&gt;&lt;br&gt;变更容量防御能力建设，支持日常和大促的变更防御" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="193" y="180" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="8y8JJ9FyH2inmfffU-TN-15" source="8y8JJ9FyH2inmfffU-TN-5">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="8y8JJ9FyH2inmfffU-TN-5" target="8y8JJ9FyH2inmfffU-TN-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="199" y="162" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-13" value="决策结论结果评估&lt;br&gt;准确率&lt;br&gt;召回率&lt;br&gt;覆盖面" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-13" value="决策结论结果评估&lt;br&gt;准确率&lt;br&gt;召回率&lt;br&gt;覆盖面" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="70" y="10" width="174" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-14" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#FFFFFF;" edge="1" parent="1" source="8y8JJ9FyH2inmfffU-TN-15" target="8y8JJ9FyH2inmfffU-TN-13">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-14" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#FFFFFF;" parent="1" source="8y8JJ9FyH2inmfffU-TN-15" target="8y8JJ9FyH2inmfffU-TN-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-61" y="1032" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-15" value="&lt;span&gt;大促中控&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-15" value="&lt;span&gt;大促中控&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="273" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-16" value="&lt;b&gt;中间件维度&lt;/b&gt;&lt;br&gt;建设存储相关中间件的全站容量风险识别关联能力，覆盖数据库、缓存、消息队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-16" value="&lt;b&gt;中间件维度&lt;/b&gt;&lt;br&gt;建设存储相关中间件的全站容量风险识别关联能力，覆盖数据库、缓存、消息队列" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1215" y="180" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="8y8JJ9FyH2inmfffU-TN-20" source="8y8JJ9FyH2inmfffU-TN-16">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="8y8JJ9FyH2inmfffU-TN-16" target="8y8JJ9FyH2inmfffU-TN-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1625" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-18" value="决策结论结果评估&lt;br&gt;准确率&lt;br&gt;召回率&lt;br&gt;覆盖面" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-18" value="决策结论结果评估&lt;br&gt;准确率&lt;br&gt;召回率&lt;br&gt;覆盖面" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1400" y="10" width="174" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-19" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#FFFFFF;" edge="1" parent="1" source="8y8JJ9FyH2inmfffU-TN-20" target="8y8JJ9FyH2inmfffU-TN-18">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-19" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#FFFFFF;" parent="1" source="8y8JJ9FyH2inmfffU-TN-20" target="8y8JJ9FyH2inmfffU-TN-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1890" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-20" value="自愈平台" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-20" value="自愈平台" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1295" y="70" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-23" value="[变更核心]影响用户、商户、金额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-23" value="[变更核心]影响用户、商户、金额" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1321" y="390" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-24" value="[变更核心]标准化接入防御能力对接支持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-24" value="[变更核心]标准化接入防御能力对接支持" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1321" y="450" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-25" value="[蓝军]实体关联变更数据关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-25" value="[蓝军]实体关联变更数据关联" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1321" y="510" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-26" value="代码分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-26" value="代码分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="70" y="935" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-27" value="静态代码分析关联应用&lt;br&gt;变更关联的日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-27" value="静态代码分析关联应用&lt;br&gt;变更关联的日志" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="995" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-28" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-28" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="351" y="915" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" parent="1" source="8y8JJ9FyH2inmfffU-TN-26" target="8y8JJ9FyH2inmfffU-TN-28">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" parent="1" source="8y8JJ9FyH2inmfffU-TN-26" target="8y8JJ9FyH2inmfffU-TN-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="965" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8y8JJ9FyH2inmfffU-TN-30" value="[数据分析]构建多维度的数据分析能力，支持准实时的数据分析需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8y8JJ9FyH2inmfffU-TN-30" value="[数据分析]构建多维度的数据分析能力，支持准实时的数据分析需求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="995" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
